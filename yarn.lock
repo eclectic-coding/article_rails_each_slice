@@ -2349,10 +2349,10 @@ cyclist@^1.0.1:
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-1.0.1.tgz#596e9698fd0c80e12038c2b82d6eb1b35b6224d9"
   integrity sha1-WW6WmP0MgOEgOMK4LW6xs1tiJNk=
 
-datatables.net-bs5@^1.11.4:
-  version "1.11.4"
-  resolved "https://registry.yarnpkg.com/datatables.net-bs5/-/datatables.net-bs5-1.11.4.tgz#7c942f7f696f02039b20fc8245762085b90297c3"
-  integrity sha512-IFezEIKzqKJmW/N8rCLfM9rddxUJmvbggdkbsMzxSS5WZkF7qhq/swokUD0ziazyTrTpPMqxTx1OIgpbGt+g6A==
+datatables.net-bs5@^1.11.5:
+  version "1.11.5"
+  resolved "https://registry.yarnpkg.com/datatables.net-bs5/-/datatables.net-bs5-1.11.5.tgz#593608d54aeb7f91bcbd80bde304155ba3795663"
+  integrity sha512-1zyh972GtuK1uAb9h8nP3jJ7f/3UgCDq69LAaZS2bVd4mEHECJ6vrZLacxrkOHOs/q/H3v5sEMeZ46vXz8ox4w==
   dependencies:
     datatables.net ">=1.11.3"
     jquery ">=1.7"
